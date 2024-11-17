@@ -1,11 +1,3 @@
-
-/*
- * Anna Del Negro
- * Dr. Steinberg
- * COP3503 Spring 2024
- * Programming Assignment 3
- */
-
 public class Tomatoes {
     public int minTomatoMoves(int array[]) {
 
